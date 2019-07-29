@@ -431,7 +431,7 @@ h6 { font-size:18px; line-height:23px}
 
 /* background image */
 .cover-background { background-position: center center !important; background-repeat: no-repeat !important; background-size: cover !important; overflow: hidden; position: relative;}
-.cover-background-parallax {background-repeat: no-repeat !important; background-size: cover !important; overflow: hidden; position: relative;}
+.cover-background-parallax {background-repeat: no-repeat !important; background-size: cover; overflow: hidden; position: relative;}
 .fix-background { background-attachment: fixed !important; background-position: center center; background-repeat: no-repeat !important; background-size: cover !important; overflow: hidden; position: relative;}
 
 /* ===================================
